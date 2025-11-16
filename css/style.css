@@ -1,0 +1,153 @@
+#header {
+  background-color: #8d99ae;
+}
+
+#myname {
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+h1 {
+  float: inline-end;
+}
+
+.colored-link {
+  font-size: 18px;
+  color: black;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.introduce {
+  font-size: 48px;
+  margin-top: 60px;
+  margin-left: 100px;
+  margin-bottom: 10px;
+}
+
+.name1 {
+  display: block;
+  font-size: 60px;
+}
+
+.description {
+  font-size: 24px;
+  margin-left: 100px;
+  width: 420px;
+}
+
+#name {
+  margin-left: 64px;
+  margin-bottom: 5px;
+  width: 250px;
+}
+
+#email {
+  margin-left: 68px;
+  margin-bottom: 5px;
+  width: 250px;
+}
+
+#your-message {
+  vertical-align: top;
+}
+
+#message {
+  text-align: top;
+  margin-left: 42px;
+  width: 250px;
+  height: 100px;
+}
+
+#submit {
+  font-size: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 150px;
+  margin-top: 10px;
+  width: 260px;
+  background-color: rgb(224, 147, 33);
+  border: none;
+  border-width: 1px;
+  border-radius: 2px;
+  cursor: pointer;
+  border-color: black;
+}
+
+img {
+  width:600px;
+  position: absolute;
+  right: 50px;
+  top: 150px;
+}
+
+#bio {
+  display: inline-block;
+  width: 575px;
+  text-align: justify;
+}
+
+body {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #2b2d42;
+  color: #edf2f4;
+  font-family: DM Sans;
+  background-image: url("../images/4060492.jpg");
+  background-size: cover;
+}
+
+table {
+  border-collapse: separate;
+  width: 75%;
+  align-items: center;
+}
+
+th,
+td {
+  border-radius: 5px;
+  border: 2px solid black;
+  padding: 8px;
+  text-align: left;
+  background-color: #1f202e;
+}
+
+td {
+  background-color: #45465b;
+}
+
+.interests {
+  padding: 10px;
+  width: 250px;
+  text-align: center;
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: #1f202e;
+  display: inline-block;
+}
+
+.projects {
+  font-size: 28px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.portfolioImg{
+  height: 200px;
+  width: 350px;
+}
+
+.heads {
+  font-size: 20px;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.breakline {
+  margin: 125px;
+}
